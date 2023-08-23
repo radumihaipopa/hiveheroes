@@ -1,4 +1,4 @@
-# Hive Heroes
+# 🐝 The Hive Heroes 🐝 
 
 Welcome to the Hive Heroes! This is a simple web-based game where you can interact with a bee swarm and try to hit different types of bees. The goal is to have fun and see how long you can keep the bees alive.
 
